@@ -1,1 +1,7 @@
-name, date, description
+Kristian Brown
+4/2/15
+Lab 4
+
+For this lab I modified the textureCube4.html and textureCube4.js files from the Angel directories to fit the purpose of this lab.
+I changed the vertices back to that of the random 3D object from my lab 3, the rendering, removed the rotate buttons, and added the arrow key functionality.
+I used a texture created in the program to avoid the issues of Chrome not wanting to open other files. 
